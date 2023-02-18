@@ -2,7 +2,7 @@
 
 ### Hey there, Antonio Laerte Tavella  <a href="https://tavellalaerte.netlify.app/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at >_ Abstract Srl 🚀
+Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at <a href="https://abstract.it/it"> >_ Abstract Srl</a> 🚀
 
 ### Connect with me:
 [<img align="left" alt="Tavella Antonio Laerte | WebSite" width="22px" src="https://tavellalaerte.netlify.app/favicon.ico" />][Website]
