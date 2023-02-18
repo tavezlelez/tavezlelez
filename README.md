@@ -10,6 +10,7 @@ Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at 
 [<img align="left" alt="Tavella Antonio Laerte | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Tavella Antonio Laerte | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
 
+<br/>
 <br />
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <br/>
