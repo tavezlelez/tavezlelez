@@ -13,6 +13,7 @@ Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at 
 <br />
 <b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
 <br/>
+<br/>
 
 <p align="left">
 <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>      
