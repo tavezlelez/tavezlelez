@@ -4,20 +4,20 @@
 
 Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at <a href="https://abstract.it/it"> >_ Abstract Srl</a> 🚀
 
+<br/>
+- 🛠 I’m currently learning all I need to become a better BackEnd & FrontEnd Developer
+- 👯 In the future I'd like to collaborate to an open source project
+- :speaking_head: Languages: :us: and :it:	
+<br/>
+<br />
+<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
+<br/>
+
 ### 📫 Connect with me:
 [<img align="left" alt="Tavella Antonio Laerte | WebSite" width="22px" src="https://tavellalaerte.netlify.app/favicon.ico" />][Website]
 [<img align="left" alt="Tavella Antonio Laerte | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][Linkedin]
 [<img align="left" alt="Tavella Antonio Laerte | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="Tavella Antonio Laerte | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][Facebook]
-
-- 👯 In the future I'd like to collaborate to an open source project
-- :speaking_head: Languages: :us: and :it:	
-
-
-<br/>
-<br />
-<b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b>
-<br/>
 <br/>
 
 <p align="left">
