@@ -67,6 +67,8 @@ Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at 
 <a href="https://www.linux.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>          
 </p>
 
+![alt text](https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e472d3f3ab651b61dec4948a2aece093e7f6d993c6a&rid=giphy.gif "alt text")
+
 [Website]: https://tavellalaerte.netlify.app/
 [Instagram]: https://www.instagram.com/tavella_laerte
 [Facebook]: https://it-it.facebook.com/antonio.tavella
