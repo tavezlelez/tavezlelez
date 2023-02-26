@@ -4,9 +4,7 @@
 Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at <a href="https://abstract.it/it"> >_ Abstract Srl</a> 🚀
 <br/>
 - 🛠 I’m currently learning all I need to become a better BackEnd & FrontEnd Developer
-<br/>
 - 👯 In the future I'd like to collaborate to an open source project
-<br/>
 - :speaking_head: Languages: :us: and :it:	
 <br/>
 
