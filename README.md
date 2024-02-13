@@ -35,7 +35,7 @@ Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at 
 <a href="https://angular.io" target="_blank"><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a>          
 <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>          
 <a href="https://magento-ecommerce.it/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/magento/magento-original.svg" alt="magento" width="40" height="40"/></a>          
-<a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain.svg" alt="laravel" width="40" height="40"/></a>          
+<a href="https://laravel.com/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-original-wordmark.svg" alt="laravel" width="40" height="40"/></a>          
 <a href="https://www.nginx.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/></a>          
 <a href="https://httpd.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original.svg" alt="apache" width="40" height="40"/></a>          
 <a href="https://tomcat.apache.org/" target="_blank"><img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" alt="tomcat" width="40" height="40"/></a>          
