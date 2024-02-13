@@ -76,8 +76,8 @@ Currently, I live in Milan and work as <b>Software Developer</b> 👨‍💻 at 
 
 
 ![attention](https://media4.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e472d3f3ab651b61dec4948a2aece093e7f6d993c6a&rid=giphy.gif "attention")
-<p align="left">
-<img src="https://github.com/tavezlelez/tavezlelez/assets/124935035/e21c9559-792a-48a9-88d2-d9c74c88b6c4" width="60" />
+<p align="right">
+<img src="https://github.com/tavezlelez/tavezlelez/assets/124935035/e21c9559-792a-48a9-88d2-d9c74c88b6c4" width="80" />
 </p>
 
 [Website]: https://tavellalaerte.netlify.app/
